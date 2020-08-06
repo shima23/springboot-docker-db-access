@@ -1,1 +1,1 @@
-rootProject.name = "dockerdbaccess"
+rootProject.name = "docker-db-access"

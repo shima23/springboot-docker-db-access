@@ -4,8 +4,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
 
 @SpringBootApplication
-class DockerdbaccessApplication
+class DockerDBAccessApplication
 
 fun main(args: Array<String>) {
-	runApplication<DockerdbaccessApplication>(*args)
+	runApplication<DockerDBAccessApplication>(*args)
 }
